@@ -82,9 +82,9 @@
 ## 6. /bin
             *
 ## 7. /
-            *
+            * 
 ## 8. /
-            *
+* fsdfsad
 
 
 # Some helpful tips & shortcuts
