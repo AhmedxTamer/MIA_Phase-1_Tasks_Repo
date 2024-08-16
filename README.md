@@ -59,7 +59,7 @@
             - short for ""
 
 # Linux Directories 
-* access any directory by using "cd [dierectory_name] (EXAMPLE: cd bin) 
+* access any directory by using "cd [dierectory_name]" (EXAMPLE: cd bin) 
 ## 1. /
             - called root directory
             - contains all Linux directories
