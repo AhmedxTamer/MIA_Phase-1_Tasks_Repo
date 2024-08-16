@@ -1,8 +1,8 @@
 # Documentation of practicing each Ubuntu command or tool
-## 1. pwd:
+1. pwd:
             - short for "print working directory"
             - shows path for the working directory
-## 2.  ls:
+2.  ls:
             - short for "list content"
             - list content in working directory
 ## 3.  mkdir [folder name]:
