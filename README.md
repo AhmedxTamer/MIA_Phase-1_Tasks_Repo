@@ -61,12 +61,12 @@
 # Linux Directories 
 * access any directory by using "cd [dierectory_name]" (EXAMPLE: cd bin) 
 ## 1. /
-            * called root directory
-            * contains all Linux directories
-            * cd /  :change directory to /
+* called root directory
+* contains all Linux directories
+* cd /  :change directory to /
 ## 2. /home
-            * ~$    :means you are using /home
-            * cd ~  :change directory to /home
+* ~$    :means you are using /home
+* cd ~  :change directory to /home
 ## 3. /dev
             * contains external devices
             *
