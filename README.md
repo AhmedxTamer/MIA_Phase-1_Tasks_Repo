@@ -1,4 +1,4 @@
-# Documentation of practicing each Ubuntu command or tool
+# Documentation of practicing each Ubuntu command and tool in Linux session
 ## 1. pwd:
             - short for "print working directory"
             - shows path for the working directory
@@ -7,9 +7,11 @@
             - list content in working directory
 ## 3. ls -l:
             - list content in working directory vertically
-## 2. ls -a:
+## 3. ls -a:
             - list all content in working directory
             - including hidden files
+## 4. ls -r:
+            - list all content in working directory in reverse order
 ## 4. mkdir [folder name]:
             - short for "make directory"
             - creates folder
@@ -56,10 +58,38 @@
 ## 22. :
             - short for ""
 
+# Linux Directories 
+* access any directory by using "cd [dierectory_name] (EXAMPLE: cd bin) 
+## 1. /
+            - called root directory
+            - contains all Linux directories
+            - cd /  :change directory to /
+## 2. /home
+            - ~$    :means you are using /home
+            - cd ~  :change directory to /home
+## 3. /dev
+            - contains external devices
+            -
+## 3. /boot
+            - contains device boot files 
+            - DON'T PLAY WITH IT
+## 4. /etc
+            - extra stuff
+            - (preferably) DON'T PLAY WITH IT TOO 
+## 5. /var
+            - log files and variables 
+            - we review it if the system is crashing or something along those lines
+## 6. /bin
+            -
+## 7. /
+            -
+## 8. /
+            -
+
 
 # Some helpful tips & shortcuts
 1. use tab key when typing file_name.file_extension to auto complete the name
 2. ^ means ctrl key
 3. ^C means: cancel process / kill process / exit
-5. you can use multiple options with one command at the same time.                         EXAMPLE: ls -l -a
+5. you can use multiple options with one command at the same time. EXAMPLE: ls -l -a
 6. 
