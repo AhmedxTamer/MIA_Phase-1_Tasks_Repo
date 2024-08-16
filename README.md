@@ -61,5 +61,5 @@
 1. use tab key when typing file_name.file_extension to auto complete the name
 2. ^ means ctrl key
 3. ^C means: cancel process / kill process / exit
-5. you can use multiple options with one command at the same time.  EXAMPLE: ls -l -a
+5. you can use multiple options with one command at the same time.                         EXAMPLE: ls -l -a
 6. 
