@@ -21,66 +21,58 @@
     7. 1st three letters after - or d indicates permissions for file owner
     8. 2nd three letters indicates permissions for the group owners of the file
     9. 3rd three letters indicates permissions for all other users
-## 3. ls -a:
+## 4. ls -a:
 * list all content in working directory
 * including hidden files
-## 4. ls -r:
+## 5. ls -r:
 * list all content in working directory in reverse order
 
-## 4. mkdir [folder name]:
+## 6. mkdir [folder name]:
 * short for "make directory"
 * creates folder
-## 5. cd [folder path from working directory]:
+## 7. cd [folder path from working directory]:
 * short for "change directory"
 * change working directory to that folder
-## 6. cd ..:
+## 8. cd ..:
 * moves up one directory level in the directory hierarchy
-## 7. touch [file_name.file_extension]:
+## 9. touch [file_name.file_extension]:
 * create file
-## 7. touch [file_name].sh:
+## 10. touch [file_name].sh:
 * .sh is the extension for BASH files
 * BASH files are used to execute multiple commands together
 * {#!/bin/bash} is a necessary first line in any BASH file
 * {./[file_name].sh} executes the file
-## 8. nano [file_name.file_extension]:
+## 11. nano [file_name.file_extension]:
 * edit the file
-## 9. cat [file_name.file_extension]:
+## 12. cat [file_name.file_extension]:
 * short for "concatenate"
 * shows file contents
-## 10. echo [text]:
+## 13. echo [text]:
 * prints the text given (literally echo)
-## 11. echo $[environment_variable]:
+## 14. echo $[environment_variable]:
 * prints the value of the given environment variable
-## 12. rm [file_name.file_extension]:
+## 15. rm [file_name.file_extension]:
 * short for "remove"
 * delete file 
-## 13. rm -r [file_name.file_extension]:
+## 16. rm -r [file_name.file_extension]:
 * remove directory and their contents
-## 14. [command] --help:
+## 17. [command] --help:
 * provide help with the specified command
 * used when help is needed to know more about the command and how to use it
-## 15. man [command]:
+## 18. man [command]:
 * short for "manual"
 * show the manual of the command
 * also used when help is needed to know more about the command and how to use it
-## 16. clear:
+## 19. clear:
 * clear the terminal view
-## 17. [command_1] | [command_2]:
+## 20. [command_1] | [command_2]:
 * redirect output of command_1 to command_2
-## 18. ls | grep x:
+## 21. ls | grep x:
 * grep acts as a filter for the ls command and only lists items containing x
-## 19. chmod +[permisson] [file_name.file_extension]:
+## 22. chmod +[permisson] [file_name.file_extension]:
 * short for "change mood"
 * grant specified permission to file owner, file group owners and all other users
 * EXAMPLE: chmod +x
-## 20. :
-* short for ""
-## 21. :
-* short for ""
-## 22. :
-* short for ""
-
-
 
 
 
@@ -95,21 +87,21 @@
 * {cd ~}  :change directory to /home
 ## 3. /dev
 * contains external devices
-## 3. /boot
+## 4. /boot
 * contains device boot files 
 * DON'T PLAY WITH IT
-## 4. /etc
+## 5. /etc
 * extra stuff
 * DON'T PLAY WITH IT 
-## 5. /var
+## 6. /var
 * log files and variables 
 * we review it if the system is crashing or something along those lines
-## 6. /bin
+## 7. /bin
 * contains executable binary files
-## 7. /sbin
+## 8. /sbin
 * contains system executable binaries, not for command line
 * DON'T PLAY WITH IT 
-## 8. /opt
+## 9. /opt
 * short for "optional"
 
 
@@ -125,9 +117,6 @@
 3. ^C means: cancel process / kill process
 5. you can use multiple options with one command at the same time. (EXAMPLE: {ls -l -a})
 6. {./[executable_file_name]} runs the specified executable file if it is in the current directory.
-7.  
-
-
 
 
 
