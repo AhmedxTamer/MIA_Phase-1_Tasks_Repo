@@ -12,8 +12,8 @@
 ## 3. ls -l:
 * list content in working directory vertically
 * also includes permission groups for each item (EXAMPLE: -rwx rwx rwx)
-    1. -    :indicates 
-    2. rws  :indicates
+    1. the - :indicates 
+    2. 1st rws      :indicates
 ## 3. ls -a:
 * list all content in working directory
 * including hidden files
