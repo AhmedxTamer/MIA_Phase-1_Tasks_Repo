@@ -12,8 +12,15 @@
 ## 3. ls -l:
 * list content in working directory vertically
 * also includes permission groups for each item (EXAMPLE: -rwx rwx rwx)
-    1. the - :indicates 
-    2. 1st rws      :indicates
+    1. 1st letter is - or d
+    2. The - indicates regular file
+    3. The d indicates directory 
+    4. The r means prmission to read
+    5. The w means prmission to write
+    6. The x means prmission to execute
+    7. 1st three letters after - or d indicates permissions for file owner
+    8. 2nd three letters indicates permissions for the group owners of the file
+    9. 3rd three letters indicates permissions for all other users
 ## 3. ls -a:
 * list all content in working directory
 * including hidden files
@@ -62,8 +69,10 @@
 * redirect output of command_1 to command_2
 ## 18. ls | grep x:
 * grep acts as a filter for the ls command and only lists items containing x
-## 19. :
-* short for ""
+## 19. chmod +[permisson] [file_name.file_extension]:
+* short for "change mood"
+* grant specified permission to file owner, file group owners and all other users
+* EXAMPLE: chmod +x
 ## 20. :
 * short for ""
 ## 21. :
