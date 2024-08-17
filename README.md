@@ -9,11 +9,11 @@
 ## 2. ls:
 * short for "list content"
 * list content in working directory:
-    1. gdssfgsdf
-    2. cfsdffds
 ## 3. ls -l:
 * list content in working directory vertically
-* also includes permission groups for each item
+* also includes permission groups for each item (EXAMPLE: -rwx rwx rwx)
+    1. -    :indicates 
+    2. rws  :indicates
 ## 3. ls -a:
 * list all content in working directory
 * including hidden files
